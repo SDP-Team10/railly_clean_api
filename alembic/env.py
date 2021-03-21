@@ -1,6 +1,6 @@
 import os
 
-import models
+import railly_clean_app.models as models
 
 from logging.config import fileConfig
 
