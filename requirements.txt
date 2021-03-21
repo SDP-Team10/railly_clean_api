@@ -3,6 +3,7 @@ click==7.1.2
 fastapi==0.63.0
 FastAPI-SQLAlchemy==0.2.1
 greenlet==1.0.0
+gunicorn==20.0.4
 h11==0.12.0
 Mako==1.1.4
 MarkupSafe==1.1.1

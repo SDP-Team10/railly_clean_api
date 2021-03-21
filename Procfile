@@ -1,0 +1,1 @@
+web: gunicorn -w 4 -k uvicorn.workers.UvicornWorker railly_clean_app.main:app
